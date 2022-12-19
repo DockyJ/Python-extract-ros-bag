@@ -1,5 +1,5 @@
 # Python-extract-ros-bag
-用python编写的提取ros bag包内的图片和相对应名称topic的信息
+用python编写的提取ros bag包内的图片和相对应名称topic的信息（for Linux）
 
 This script saves each topic in a bagfile as a csv or pictures.
 
